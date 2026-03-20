@@ -66,7 +66,24 @@ Essas integracoes reforcam o carater multimidia do app e ampliam a usabilidade e
 
 - **Compatibilidade de Documentos (PDF)**: em alguns cenarios, o app nao conseguia exibir documentos PDF diretamente a partir da URL remota. Para melhorar a compatibilidade com leitores externos, foi implementado um fluxo que baixa o PDF para armazenamento local e abre o arquivo por meio de um Intent com suporte a visualizacao apropriada.
 
-## 6 - CONSIDERACOES FINAIS
+## 6 - CAPTURAS DE TELA
+
+A seguir sao apresentadas capturas de tela do aplicativo, organizadas em uma grade 2x3:
+
+<table>
+  <tr>
+    <td><img src="img/img01.jpeg" alt="Captura 1" width="220"/></td>
+    <td><img src="img/img02.jpeg" alt="Captura 2" width="220"/></td>
+    <td><img src="img/img03.jpeg" alt="Captura 3" width="220"/></td>
+  </tr>
+  <tr>
+    <td><img src="img/img04.jpeg" alt="Captura 4" width="220"/></td>
+    <td><img src="img/img05.jpeg" alt="Captura 5" width="220"/></td>
+    <td><img src="img/img06.jpeg" alt="Captura 6" width="220"/></td>
+  </tr>
+</table>
+
+## 7 - CONSIDERACOES FINAIS
 
 O aplicativo desenvolvido representa uma solucao completa de comunicacao, integrando funcionalidades essenciais e requisitos especiais solicitados, incluindo mensagens fixadas e filtros. A experiencia de desenvolvimento permitiu ao grupo consolidar conhecimentos sobre arquiteturas de aplicacoes Android, persistencia local, integracao com servicos externos e integracao com hardware do dispositivo.
 
