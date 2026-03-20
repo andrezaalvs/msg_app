@@ -1,0 +1,26 @@
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+
+# Arquivos grandes / backup (GitHub: máx. 100 MB por arquivo)
+*.zip
+*.7z
+*.rar
+
+# Vídeo de teste na raiz do projeto (evita commit acidental gigante)
+Video Testando.mp4
+
+# Logs locais do Kotlin/IDE
+.kotlin/
