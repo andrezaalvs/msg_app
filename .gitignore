@@ -25,5 +25,7 @@ Video Testando.mp4
 # Logs locais do Kotlin/IDE
 .kotlin/
 
-# Arquivos gerados/acervo de automacao do projeto (nao versionar)
-/apk/
+# Arquivos gerados/acervo de automacao do projeto
+# - Ignora o diretorio apk, mas permite o APK gerado para compartilhamento academico.
+/apk/*
+!/apk/msg_app.apk
