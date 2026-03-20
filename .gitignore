@@ -14,7 +14,7 @@
 .cxx
 local.properties
 
-# Arquivos grandes / backup (GitHub: máx. 100 MB por arquivo)
+# Arquivos grandes / backup (GitHub: max. 100 MB por arquivo)
 *.zip
 *.7z
 *.rar
@@ -24,3 +24,7 @@ Video Testando.mp4
 
 # Logs locais do Kotlin/IDE
 .kotlin/
+
+# Arquivos gerados/acervo de automacao do projeto (nao versionar)
+/apk/
+/img/
